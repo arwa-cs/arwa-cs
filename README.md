@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arwa-cs
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on buliding  apps 
+- ✨ my language java,python,html,css,sql
 - 📫 How to reach me my email arwasaleh.cs@gmail.com
 
 <!---
